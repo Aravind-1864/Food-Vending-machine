@@ -31,4 +31,4 @@ The user can select items from a menu, enter the quantity, and pay for the order
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/FoodVendingMachine.git
+   git clone https://github.com/Aravind-1864/FoodVendingMachine.git
